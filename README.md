@@ -1,1 +1,1 @@
-# Paddle2Mouse-For-Arcade-Archives
+# Paddle2Mouse-For-ArcadeArchives
