@@ -1,6 +1,6 @@
 # Paddle2Mouse-For-ArcadeArchives
 
-このデバイスはUSB HIDとして認識され、Nintendo Switch/Switch2でマウスとして動作します。（PS4/5では動作確認できていませんが同じ要領で動くと思います）<br>
+このデバイスはUSB HIDとして認識され、Nintendo Switch/Switch2のアーケードアーカイブスタイトルでマウスとして動作します。（PS4/5では動作確認できていませんが同じ要領で動くと思います）<br>
 感度切り替えスイッチを装備し、高感度モードではボード上のLEDが点灯します<br>
 <br>
 ■材料と配線<br>
