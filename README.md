@@ -1,6 +1,6 @@
 # Paddle2Mouse-For-ArcadeArchives
 
-このデバイスはAruduino Pro Microを用いてロータリーエンコーダ―とボタン操作をUSB HIDへ変換し、Nintendo Switch/Switch2のアーケードアーカイブスタイトルでマウスとして動作します。（PS4/5では動作確認できていませんが同じ要領で動くと思います）<br>
+このデバイスはAruduino Pro Microを用いてロータリーエンコーダ―とボタン操作をUSBマウスへ変換することで、Nintendo Switch/Switch2のアーケードアーカイブスタイトルでパドルコントローラーとして動作します。（PS4/5では動作確認できていませんが同じ要領で動くと思います）<br>
 感度切り替えスイッチを装備し、高感度モードではボード上のLEDが点灯します。<br>
 Arduino Pro Micro (5V/16MHz）をPCへ接続し、Arduino IDEからPaddle2MouseForAA.inoを書き込んで使用してください。<br>
 ■材料と配線<br>
