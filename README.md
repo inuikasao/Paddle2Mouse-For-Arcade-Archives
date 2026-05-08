@@ -7,7 +7,7 @@ Arduino Pro Micro (5V/16MHz）をPCへ接続し、Arduino IDEからPaddle2MouseF
 ・Arduino Pro Micro (5V/16MHz版)もしくはその互換ボード<br>
 ・産業用ロータリーエンコーダ (オープンコレクタ出力型、A/B相出力)<br>
 -[作者が使用したものはこちら（600パルス）](https://aliexpress.com/item/1005005779039462.html)<br>
-・プッシュボタン×2 (左右クリック用)<br>
+・アーケード用ボタン×2 (左右クリック用)<br>
 ・トグルスイッチもしくはプッシュボタン×1 (モード切替用)<br>
 ・ノブ（金属製のものを推奨）<br>
 -[作者が使用したものはこちら](https://ja.aliexpress.com/item/4001041459364.html)<br>
